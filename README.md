@@ -28,6 +28,4 @@ The extracted data will be saved in `product_details.csv`.
 
 📌 Feel free to contribute or fork the project! 😊  
 
----
 
-Let me know if you need modifications! 🚀
